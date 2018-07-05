@@ -1,0 +1,11 @@
+// Globals
+@import "helpers/variables";
+@import "helpers/helpers";
+
+// Subscribe the default style 
+@import "base/base";
+@import "base/customize";
+
+// List of componets for dashboard
+@import "components/header";
+@import "components/chart";

@@ -1,0 +1,70 @@
+// 
+// helper class
+//
+
+
+// Texts
+.text {
+  &__center {
+    text-align: center !important;
+  }
+  &__uppercase {
+    text-transform: uppercase !important;
+  }
+  &__light {
+    font-weight: 300 !important;
+  }
+  &__normal {
+    font-weight: 400 !important;
+  }
+
+
+  &__2rem {
+    font-size: 2rem !important;
+  }
+  &__4rem {
+    font-size: 4rem !important;
+  }
+  &__6rem {
+    font-size: 6rem !important;
+  }
+  &__8rem {
+    font-size: 8rem !important;
+  }
+
+}
+
+
+// Titles
+.height-in-floating-titles{
+  min-height: 3rem !important;
+}
+
+// Icons 
+.icon {
+  &__normal {
+    font-size: 1rem !important;
+  }
+}
+
+
+// Displays
+.display {
+  &__flex {
+    display: flex !important;
+  }
+}
+.flex-align {
+  &__self-center {
+    align-self: center
+  }
+}
+
+
+
+// Margins
+.padding {
+  &__for-block {
+    padding: 0 1.5rem !important;
+  }
+} 

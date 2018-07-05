@@ -1,0 +1,19 @@
+//
+// Customize css of semantic-ui 
+//
+
+.ui.segment, .ui.segments {
+    -webkit-box-shadow: 0 2px 4px 0 rgba(211,216,228,100) !important;
+    box-shadow: 0 2px 4px 0 rgba(211,216,228,100) !important; 
+    border: none !important;
+}
+.ui.statistic {
+    .label {
+        text-transform: initial;
+        font-size: 1.3rem;
+        color: #2B74A9;
+        font-weight: 400;
+        margin-top: 0.5rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+}

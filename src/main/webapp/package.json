@@ -1,0 +1,27 @@
+{
+  "name": "complianceux",
+  "version": "1.0.0",
+  "description": "Dahsboard compliance",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compliancefiscal/ComplianceUX.git"
+  },
+  "author": "Allan Kobylinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compliancefiscal/ComplianceUX/issues"
+  },
+  "homepage": "https://github.com/compliancefiscal/ComplianceUX#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-scss": "^1.4.0",
+    "gulp-watch": "^5.0.0"
+  }
+}

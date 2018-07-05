@@ -1,0 +1,18 @@
+//
+// Header Component
+//
+
+
+.header-dashboard {
+    margin-bottom: 1rem;
+    .ui.menu {
+        background-color: $colorDefaultCompliance;
+        min-height: 6.5rem;
+        & > .item::before {
+            background: none;
+        }
+        .item {
+            color: white
+        }
+    }
+}
